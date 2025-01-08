@@ -1,0 +1,10 @@
+{
+  "Configurations": 
+  [
+    {
+      "Version": "1.0.4",
+      "URL": "https://github.com/epsilon-automacao/gateway/raw/refs/heads/main/firmware.bin",
+      "dispositivos_id": ["broadcast"]
+    }
+  ]
+}
