@@ -2,7 +2,7 @@
   "Configurations": 
   [
     {
-      "Version": "1.0.6",
+      "Version": "1.0.7",
       "URL": "https://raw.githubusercontent.com/epsilon-automacao/gateway/main/firmware.bin",
       "MD5": "d41d8cd98f00b204e9800998ecf8427e",
       "dispositivos_id": ["broadcast"]
